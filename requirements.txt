@@ -1,0 +1,5 @@
+express //para criar o servidor e lidar com as rotas
+nodemon //para reiniciar o servidor automaticamente quando houver mudanças no código
+mongoose //para conectar e interagir com o banco de dados MongoDB
+dotenv //para carregar variáveis de ambiente a partir de um arquivo .env
+ejs //para renderizar templates HTML no servidor
